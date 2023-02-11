@@ -1,0 +1,18 @@
+C:\Users\admin1\source\repos\NGO\DAL\bin\Debug\DAL.dll
+C:\Users\admin1\source\repos\NGO\DAL\bin\Debug\DAL.pdb
+C:\Users\admin1\source\repos\NGO\DAL\bin\Debug\BAL.dll
+C:\Users\admin1\source\repos\NGO\DAL\bin\Debug\BAL.pdb
+C:\Users\admin1\source\repos\NGO\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\NGO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\NGO\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin1\source\repos\NGO\DAL\obj\Debug\DAL.dll
+C:\Users\admin1\source\repos\NGO\DAL\obj\Debug\DAL.pdb
+C:\Users\abhishek jha\source\repos\NGO\DAL\bin\Debug\DAL.dll
+C:\Users\abhishek jha\source\repos\NGO\DAL\bin\Debug\DAL.pdb
+C:\Users\abhishek jha\source\repos\NGO\DAL\bin\Debug\BAL.dll
+C:\Users\abhishek jha\source\repos\NGO\DAL\bin\Debug\BAL.pdb
+C:\Users\abhishek jha\source\repos\NGO\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\abhishek jha\source\repos\NGO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\abhishek jha\source\repos\NGO\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\abhishek jha\source\repos\NGO\DAL\obj\Debug\DAL.dll
+C:\Users\abhishek jha\source\repos\NGO\DAL\obj\Debug\DAL.pdb
